@@ -7,5 +7,6 @@ document.getElementById('apply-btn').addEventListener('click', function() {
   //commit 3 Bugfix branch
   //commit 3 Bugfix branch
   //additional commit 1.2.
+  //additional commit 1.3.
 });
 //commit 2 feature branch
