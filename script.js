@@ -5,5 +5,7 @@ document.getElementById('apply-btn').addEventListener('click', function() {
   //commit 1 Chore branch
   //commit 3 Chore branch
   //commit 3 Bugfix branch
+  //commit 3 Bugfix branch
+  //additional commit 1.2.
 });
 //commit 2 feature branch
